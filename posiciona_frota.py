@@ -7,3 +7,4 @@ def posiciona_frota(frota):
     return tabuleiro
 
     #cria um tabuleiro de 10x10 usando uma lista
+    #A variável "_" é usada como um espaço reservado para a variável de loop
